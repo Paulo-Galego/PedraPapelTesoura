@@ -7,5 +7,5 @@ Projeto Android - jogo JokenPo
 
 <p align="center">
   Esse é um projeto que desenvolvi em 2020, mas decidi colocar no Github. <br />
-  Desenvolvido em Java, com Xml para designe da tela. <br />
+  Desenvolvido em Java, com Xml para design da tela. <br />
 </p>
